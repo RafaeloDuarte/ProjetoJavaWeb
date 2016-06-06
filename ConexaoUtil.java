@@ -13,7 +13,7 @@ public class ConexaoUtil{
 
 		if (conexaoUtil==null){
 
-			conexaoUtilA = new ConexaoUtil();
+			conexaoUtil = new ConexaoUtil();
 
 		}
 
